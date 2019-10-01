@@ -5,3 +5,4 @@ Esto es una prueba de git, una forma de acercarme al mundo profecional
 
 ## son pruebas no es un proyecto completo :D
 *creado poor luis
+*incluye cosas curiosas
